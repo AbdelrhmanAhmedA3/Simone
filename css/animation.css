@@ -1,0 +1,332 @@
+@keyframes text {
+  0% {
+    content: "I";
+  }
+  1% {
+    content: "I'";
+  }
+  2% {
+    content: "I'm";
+  }
+  3% {
+    content: "I'm ";
+  }
+  4% {
+    content: "I'm s";
+  }
+  5% {
+    content: "I'm si";
+  }
+  6% {
+    content: "I'm sim";
+  }
+  7% {
+    content: "I'm simo";
+  }
+  8% {
+    content: "I'm simon";
+  }
+  9% {
+    content: "I'm simone";
+  }
+  10% {
+    content: "I'm simon ";
+  }
+  11% {
+    content: "I'm simon O";
+  }
+  12% {
+    content: "I'm simon Ol";
+  }
+  13% {
+    content: "I'm simon Oli";
+  }
+  14% {
+    content: "I'm simon Oliv";
+  }
+  15% {
+    content: "I'm simon Olivi";
+  }
+  16% {
+    content: "I'm simon Olivia";
+  }
+  17% {
+    content: "I'm simon Olivi";
+  }
+  18% {
+    content: "I'm simon Oliv";
+  }
+  19% {
+    content: "I'm simon Oli";
+  }
+  20% {
+    content: "I'm simon Ol";
+  }
+  21% {
+    content: "I'm simon O";
+  }
+  22% {
+    content: "I'm simon ";
+  }
+  23% {
+    content: "I'm simon";
+  }
+  24% {
+    content: "I'm simo";
+  }
+  25% {
+    content: "I'm sim";
+  }
+  26% {
+    content: "I'm si ";
+  }
+  27% {
+    content: "I'm s ";
+  }
+  28% {
+    content: "I'm  ";
+  }
+  29% {
+    content: "I'm a";
+  }
+  30% {
+    content: "I'm a F";
+  }
+  31% {
+    content: "I'm a Fr";
+  }
+  32% {
+    content: "I'm a Fre";
+  }
+  33% {
+    content: "I'm a Free";
+  }
+  34% {
+    content: "I'm a Freel";
+  }
+  35% {
+    content: "I'm a Freela";
+  }
+  36% {
+    content: "I'm a Freelan";
+  }
+  37% {
+    content: "I'm a Freelanc";
+  }
+  38% {
+    content: "I'm a Freelance";
+  }
+  39% {
+    content: "I'm a Freelancer";
+  }
+  40% {
+    content: "I'm a Freelancer.";
+  }
+  41% {
+    content: "I'm a Freelancer";
+  }
+  42% {
+    content: "I'm a Freelance";
+  }
+  43% {
+    content: "I'm a Freelanc";
+  }
+  44% {
+    content: "I'm a Freelan";
+  }
+  45% {
+    content: "I'm a Freela";
+  }
+  46% {
+    content: "I'm a Freel";
+  }
+  47% {
+    content: "I'm a Free";
+  }
+  48% {
+    content: "I'm a Fre";
+  }
+  49% {
+    content: "I'm a Fr";
+  }
+  50% {
+    content: "I'm a F";
+  }
+  51% {
+    content: "I'm a ";
+  }
+  52% {
+    content: "I'm a P";
+  }
+  53% {
+    content: "I'm a Ph";
+  }
+  54% {
+    content: "I'm a Pho";
+  }
+  55% {
+    content: "I'm a Phot";
+  }
+  56% {
+    content: "I'm a Photo";
+  }
+  57% {
+    content: "I'm a Photog";
+  }
+  58% {
+    content: "I'm a Photogr";
+  }
+  59% {
+    content: "I'm a Photogra";
+  }
+  60% {
+    content: "I'm a Photograp";
+  }
+  61% {
+    content: "I'm a Photograph";
+  }
+  62% {
+    content: "I'm a Photographe";
+  }
+  62% {
+    content: "I'm a Photographer";
+  }
+  62% {
+    content: "I'm a Photographer.";
+  }
+  63% {
+    content: "I'm a Photographer";
+  }
+  64% {
+    content: "I'm a Photographe";
+  }
+  65% {
+    content: "I'm a Photograph";
+  }
+  66% {
+    content: "I'm a Photograp";
+  }
+  67% {
+    content: "I'm a Photogra";
+  }
+  68% {
+    content: "I'm a Photogr";
+  }
+  69% {
+    content: "I'm a Photogr";
+  }
+  70% {
+    content: "I'm a Photog";
+  }
+  70% {
+    content: "I'm a Photo";
+  }
+  71% {
+    content: "I'm a Phot";
+  }
+  72% {
+    content: "I'm a Pho";
+  }
+  73% {
+    content: "I'm a Pho";
+  }
+  74% {
+    content: "I'm a Ph";
+  }
+  75% {
+    content: "I'm a P";
+  }
+  76% {
+    content: "I'm a ";
+  }
+  77% {
+    content: "I'm a D";
+  }
+  78% {
+    content: "I'm a De";
+  }
+  79% {
+    content: "I'm a Des";
+  }
+  80% {
+    content: "I'm a Desi";
+  }
+  81% {
+    content: "I'm a Desig";
+  }
+  82% {
+    content: "I'm a Design";
+  }
+  83% {
+    content: "I'm a Designe";
+  }
+  84% {
+    content: "I'm a Designer";
+  }
+  85% {
+    content: "I'm a Designer.";
+  }
+  86% {
+    content: "I'm a Designer";
+  }
+  87% {
+    content: "I'm a Designe";
+  }
+  89% {
+    content: "I'm a Design";
+  }
+  90% {
+    content: "I'm a Desig";
+  }
+  91% {
+    content: "I'm a Desi";
+  }
+  92% {
+    content: "I'm a Des";
+  }
+  93% {
+    content: "I'm a De";
+  }
+  94% {
+    content: "I'm a D";
+  }
+  95% {
+    content: "I'm a ";
+  }
+  96% {
+    content: "I'm a";
+  }
+  97% {
+    content: "I'm ";
+  }
+  98% {
+    content: "I'm";
+  }
+  99% {
+    content: "I'";
+  }
+  100% {
+    content: "I";
+  }
+}
+@keyframes down-a {
+  0% {
+    transform: translateY(-25px);
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+  100% {
+  }
+}
+@keyframes menu {
+  0% {
+    opacity: 0;
+    top: 60%;
+  }
+  100% {
+    opacity: 1;
+    /* top: 100%; */
+  }
+}
